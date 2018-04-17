@@ -1,0 +1,43 @@
+div {
+  text-align:center;
+  overflow: hidden;
+  border: 4px dotted red;
+  width: auto;
+  background: whight;
+  border-radius: 40px;
+}
+img {
+width: 300px;
+border: 1px solid black;
+padding: 1px;
+border-radius: 10px;
+ }
+h1{
+  font-family: Impact;
+  font-size: 50pt;
+  margin: 10px;
+  text-decoration: underline;
+}
+h3{
+  color: black;
+  background: whight;
+font-family: Courier ;
+font-size: 12pt;
+font-weight: bold;
+text-decoration: underline  ;
+margin: 10px;
+padding: 10px;
+width: auto;
+height: 30px;
+}
+p{
+  color: black;
+  background: whight;
+font-family: Courier ;
+font-size: 30pt;
+font-weight: bold;
+ margin: 10px;
+padding: 10px;
+width: auto;
+height: auto;
+}
