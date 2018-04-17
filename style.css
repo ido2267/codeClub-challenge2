@@ -1,0 +1,45 @@
+div {
+  text-align:center;
+  overflow: hidden;
+  border: 4px dotted red;
+  width: 400px;
+  background: yellow;
+  border-radius: 40px;
+}
+img {
+  
+  width: 100px;
+border: 1px solid black;
+padding: 50px;
+border-radius: 10px;
+background:#ADFF2F;
+}
+h1{
+  font-family: Impact;
+  font-size: 50pt;
+  margin: 10px;
+  text-decoration: underline;
+}
+h3{
+  color: black;
+background: yellow;
+font-family: Courier ;
+font-size: 12pt;
+font-weight: bold;
+text-decoration: underline  ;
+margin: 10px;
+padding: 10px;
+width: auto;
+height: 30px;
+}
+p{
+  color: black;
+background: yellow;
+font-family: Courier ;
+font-size: 12pt;
+font-weight: bold;
+ margin: 10px;
+padding: 10px;
+width: auto;
+height: 30px;
+}
